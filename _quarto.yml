@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "today"
+  title: "Intro to Ifá"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: dictionary.qmd
+        text: Dictionary
+      - href: orisha.qmd
+        text: Orisha
 
 format:
   html:
