@@ -8,10 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: dictionary.qmd
-        text: Dictionary
       - href: orisha.qmd
         text: Orisha
+      - href: dictionary.qmd
+        text: Dictionary
 
 format:
   html:
