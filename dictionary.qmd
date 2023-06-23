@@ -3,8 +3,8 @@
 | Yoruba | English | Definition |
 |----------|:-----|------:|
 | Baba     | Father  | |
-| Ìyá      | Mother  | |
 | Babaaláwo / Babalawo| Father of secrets / Father of mysteries | A man / masculine identifying person that is a high priest of the Ifá oracle |
+| Ìyá      | Mother  | |
 | Ìyánífá / Iyanifa | Mother of secrets / Mother of mysteries | A woman / femme identifying person that is a high priest of the Ifá oracle |
 | Ebo | Offering or Sacrifice |
 | Ile | House |
