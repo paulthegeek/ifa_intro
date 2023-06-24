@@ -41,10 +41,12 @@ jobs:
       - name: Render
         uses: quarto-dev/quarto-actions/render@v2
         with:
-          path: "_site"
+          path: "docs"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
+        with:
+          path: docs
 
       - name: Deploy to GitHub Pages
         id: deployment
