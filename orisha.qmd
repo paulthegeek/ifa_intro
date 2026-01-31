@@ -1,4 +1,4 @@
-# Órìṣà (Orisha)
+# Órìṣà
 
 Órìṣà are the divine spirits and forces of nature created by Olodumare which help to guide human consciousness and move us towards living in íwa-pȩ̀lȩ́ (good character).
 
@@ -8,7 +8,7 @@
 
 Ori is your personal Órìṣà. It's the spiritual higher self, our intuition, and personal spritual guide. Ori is the keeper of our destiny and the one who guides us to our purpose on Aye(Earth). Every living being is born with an Ori. Blessing cannot occur without the permission of Ori. When in alignment with ourselfs and Ori, we are able to manifest our destiny. When were are not in alignment ourselves we can turn blessings away.
 
-## Èṣù / Eshu / Ẹlẹ́gbára / Eleguá
+## Èṣù
 
 ![](images/orisha/eshu.png)
 
@@ -20,7 +20,7 @@ Ori is your personal Órìṣà. It's the spiritual higher self, our intuition, 
 
 [Spotify Podcast](https://open.spotify.com/episode/358JWuO3I2exTmdUJMEiLE?si=ab60dc1aa58f45eb){target="_blank"}
 
-## Orunmila / Orúnmìlà / Ifá
+## Ọ̀rúnmìlà / Ifá
 
 ![](images/orisha/orunmila.png)
 
@@ -32,7 +32,7 @@ Orunmila is the prophet of Ifá. Orunmila developed and expounded upon the Ifá 
 
 [Spotify Podcast](https://open.spotify.com/episode/0pVSEpTEiJsGAT01Sw86GQ?si=38c46ce3867a4704){target="_blank"}
 
-## Ọbàtálá / Obatala
+## Ọbàtálá
 
 ![](images/orisha/obatala.png)
 
@@ -44,7 +44,7 @@ Orunmila is the prophet of Ifá. Orunmila developed and expounded upon the Ifá 
 
 [Spotify Podcast](https://open.spotify.com/episode/5xRMcwHigHjDn7u9LSERD0?si=43863eaf8d0a4f2c){target="_blank"}
 
-## Olóòkun / Olokun
+## Olóòkun
 
 ![](images/orisha/olokun.png)
 
@@ -56,7 +56,7 @@ Olóòkun is the Órìṣà of the ocean and all of its mysteries. Olóòkun is 
 
 [Spotify Podcast](https://open.spotify.com/episode/3dkLbi8QaAYJD3IGc6J22H?si=31e4fbd06a394511){target="_blank"}
 
-## Yemọja / Yemaja
+## Yemọja
 
 ![](images/orisha/yemoja.png)
 
@@ -68,7 +68,7 @@ Yemọja is one of many Órìṣà of the river. In Santeria she is the Órìṣ
 
 [Spotify Podcast](https://open.spotify.com/episode/7nWzMosGi8TipLX6P16KR7?si=998a15c0b70543b4){target="_blank"}
 
-## Ọṣun / Oshun
+## Ọṣun
 
 ![](images/orisha/oshun.png)
 
@@ -80,7 +80,7 @@ Yemọja is one of many Órìṣà of the river. In Santeria she is the Órìṣ
 
 [Spotify Podcast](https://open.spotify.com/episode/6csrZ0tcwsFftz6OZGid9S?si=b0a45c392c314e3e){target="_blank"}
 
-## Ọbà / Oba / Obba
+## Ọbà
 
 ![](images/orisha/oba.png)
 
@@ -92,7 +92,7 @@ Yemọja is one of many Órìṣà of the river. In Santeria she is the Órìṣ
 
 [Spotify Podcast](https://open.spotify.com/episode/0hbFYI5nLVfyPj8Fm0RR3a?si=e26be9d92dd24bc0){target="_blank"}
 
-## Ṣàngó / Shango
+## Ṣàngó
 
 ![](images/orisha/shango.png)
 
@@ -104,7 +104,7 @@ Yemọja is one of many Órìṣà of the river. In Santeria she is the Órìṣ
 
 [Spotify Podcast](https://open.spotify.com/episode/6uGcqm8ubxGv4HQCDmT05a?si=b8cbba20aa834c91){target="_blank"}
 
-## Ọya / Oya
+## Ọya
 
 ![](images/orisha/oya.png)
 
@@ -116,11 +116,11 @@ Yemọja is one of many Órìṣà of the river. In Santeria she is the Órìṣ
 
 [Spotify Podcast](https://open.spotify.com/episode/0cMRZtPPOFKE080WpyBhRB?si=e266a2d8f8904826){target="_blank"}
 
-## Ògún / Ogun
+## Ògún
 
 ![](images/orisha/ogun.png)
 
-Ogun is a warrior and the Órìṣà of iron and techonology. Ogun is the pathmaker/waymaker for humanity and the other Órìṣà by using his tools to clear the way for one's destiny. It is he that forged the chain made of gold from Orun(Heaven) to Aye(Earth) which allowed for the Órìṣà, humanity, and all life to come down. The state of Ogun in southwestern Nigeria is named in his honor.  
+Ògún is a warrior and the Órìṣà of iron and techonology. Ogun is the pathmaker/waymaker for humanity and the other Órìṣà by using his tools to clear the way for one's destiny. It is he that forged the chain made of gold from Orun(Heaven) to Aye(Earth) which allowed for the Órìṣà, humanity, and all life to come down. 
 
 [Video](https://youtu.be/DvtNHdVw5Lk){target="_blank"}
 
@@ -128,7 +128,7 @@ Ogun is a warrior and the Órìṣà of iron and techonology. Ogun is the pathma
 
 [Spotify Podcast](https://open.spotify.com/episode/0u95tNQOVn67oNG7Ojmgyu?si=9527655ed7334706){target="_blank"}
 
-## Ọ̀ṣọ́ọ̀sì / Oshosi
+## Ọ̀ṣọ́ọ̀sì
 
 ![](images/orisha/oshosi.png)
 
@@ -138,7 +138,7 @@ Ogun is a warrior and the Órìṣà of iron and techonology. Ogun is the pathma
 
 [Spotify Podcast](https://open.spotify.com/episode/3zHAojsLMD2y5x1sDV83GY?si=8dce72ce1c8840c7){target="_blank"}
 
-## Erinlẹ / Erinle
+## Erinlẹ
 
 [Video](https://youtu.be/2v3HxdCNZ28){target="_blank"}
 
@@ -146,7 +146,7 @@ Ogun is a warrior and the Órìṣà of iron and techonology. Ogun is the pathma
 
 [Spotify Podcast](https://open.spotify.com/episode/4uSq3o93DLG3Rmr6jbk4v3?si=1f76423b8c6e424e){target="_blank"}
 
-## Babalú-Aye / Babaluaye
+## Obalúayé
 
 [Video](https://youtu.be/YdpkQJRz5p0){target="_blank"}
 

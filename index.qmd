@@ -5,7 +5,7 @@ The traditions, practices, and spritual system of the Yoruba people of West Afri
 ## Who is Olódùmarè?
 Olódùmarè is the creator and source of all that is in the universe.
 
-## What are [Órìṣà (Orisha) ](orisha.qmd)?
+## What are [Órìṣà](orisha.qmd)?
 Órìṣà are the divine spirits and forces of nature created by Olodumare which help to guide human consciousness and move us towards living in íwa-pȩ̀lȩ́ (good character).
 
 ## Traditions of Ifá
@@ -25,7 +25,7 @@ Candomblé is the Brazilian tradition of Ifá. It was birthed through a syncreti
 
 ## Initiations, Rituals, and Ceremonies (More to come)
 
-### Íṣẹ́fá / Hand of Ifa / Mono de Orula
+### Íṣẹ́fá / Hand of Ifa
 
 The Hand of Ifa is the first step in the process of initiation into Ifa. The initiaion is typically a three day long ritual. What you will recieve can vary depending on the lineage you are initiating or tradition you're initating into. At the very least you will recieve:
 
